@@ -96,4 +96,4 @@ python evaluate.py     # scores the tickets against answer_key.csv
 
 ## Author
 
-Ryan Wahl, [LinkedIn](https://www.linkedin/in/ryanwahl)
+Ryan Wahl, [LinkedIn](https://www.linkedin/in/ryanmwahl)
